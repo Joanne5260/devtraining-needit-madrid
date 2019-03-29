@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Automation Pipeline Command Transformer" max_length="40" name="command_has_transformer" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="New Choice" max_length="40" name="x_58872_needit_u_choice_1" type="string">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Order Stuff" max_length="40" name="x_58872_needit_u_choice_3" type="string">
+            <choice/>
+        </element>
+        <element label="New Due Date" max_length="40" name="x_58872_needit_u_due_date_2" type="due_date"/>
+        <element label="New Due Date" max_length="40" name="x_58872_needit_u_due_date_4" type="due_date"/>
+    </element>
+</database>
